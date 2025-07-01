@@ -1,0 +1,5 @@
+// App.scss (top-level Sass file)
+
+@use 'scss/coreui' with (
+   $whte: #fff
+);
