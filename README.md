@@ -1,4 +1,5 @@
 Demonstrate error-reporting bug in Sass 1.89.2 (Sass embedded on WSL-Linux, Dart Sass on Windows)
+(See [Issue #2598](https://github.com/sass/dart-sass/issues/2598) )
 
 This bug is nearly identical to [Issue #1180](https://github.com/sass/dart-sass/issues/1180) but that one appears to have been resolved.
 
